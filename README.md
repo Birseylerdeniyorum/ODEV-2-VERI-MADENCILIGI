@@ -1,2 +1,2 @@
-# -dev-2-B-L524-VER-MADENC-L-
+# odev-2-BiL524-VERI MADENCILIGI
 R'de kullanılan temel fonksiyonlardan yararlandığınız bir script oluşturunuz. 
