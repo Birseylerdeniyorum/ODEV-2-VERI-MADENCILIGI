@@ -21,12 +21,19 @@ Scriptte Kullanılan Temel Fonksiyonların Özeti
 
 Fonksiyon	Açıklama
 c()	Elemanları birleştirerek bir vektör oluşturur.
+
 data.frame()	Farklı türdeki verileri bir tablo yapısında toplar.
+
 str()	Objenin iç yapısını (structure) detaylıca gösterir.
+
 summary()	Veri seti hakkında hızlıca betimsel istatistik sunar.
+
 subset()	Belirli kriterlere göre veri setinden alt küme seçer.
+
 order()	Veriyi belirli bir sütuna göre sıralamak için indeks döner.
+
 plot()	Temel iki boyutlu grafikler oluşturur.
+
 
 <img width="497" height="356" alt="yasvepuangrafigi" src="https://github.com/user-attachments/assets/33b66036-a3ac-4c65-8faf-a4d944397cc6" />
 
