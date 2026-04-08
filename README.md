@@ -1,6 +1,7 @@
 # odev-2-BiL524-VERI MADENCILIGI
 R'de kullanılan temel fonksiyonlardan yararlandığınız bir script oluşturunuz. 
 
+Ödev Açıklaması
 
 Veri Yapılandırma: c() ve seq() fonksiyonları kullanılarak vektörler oluşturulmuş, data.frame() ile bu vektörler bir tablo yapısında birleştirilmiştir.
 
