@@ -41,9 +41,6 @@ plot()	Temel iki boyutlu grafikler oluşturur.
 
 
 
-
-
-
 Kaynakça
 R Core Team (2023). R: A language and environment for statistical computing.
 
